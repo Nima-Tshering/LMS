@@ -1,0 +1,27 @@
+Library Management System in PHP and Mysql
+
+ 1.User/Student
+ -> user can register in LMS, after registration student account will activated after verified by librarian.
+ -> user can login after verification
+ -> user can update this profile
+ -> user can search books
+ -> user can see their issued books with details like books submission date, books issue dates etc.
+ -> user will get notification if librarian send any message.
+ -> user can give reply of librarian message
+ -> logout feature.
+
+===============================================================================
+ 2. Librarian/Admin
+  -> admin can login
+  -> admin can add new books
+  -> admin can edit books details
+  -> admin can delete books
+  -> admin can verify students
+  -> admin can issue books 
+  -> admin can add return books in stocks
+  -> admin can see all books with stocks
+  -> admin can search books
+  -> admin can  search students
+  -> admin can see that how many students have books right now
+  -> admin can send messages to students
+  -> logout
